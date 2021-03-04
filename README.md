@@ -1,1 +1,1 @@
-https://Buterbrod.github.com/rsschool-cv/cv.md
+https://Buterbrod.github.io/rsschool-cv/cv.md
