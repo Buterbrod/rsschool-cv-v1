@@ -1,5 +1,6 @@
 > Текст был взят с wiki-страницы: [Бутерброд](https://ru.wikipedia.org/wiki/Бутерброд) и отформатирован в markdown
 >> Дата: 04.03.2001
+
 ---
 ```ruby
 require 'redcarpet'
