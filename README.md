@@ -88,25 +88,25 @@ https://Buterbrod.github.io/rsschool-cv/cv
 
 
 ## См. также
-1. [Кростини](https://ru.wikipedia.org/wiki/Кростини)
-1. [Брускетта](https://ru.wikipedia.org/wiki/Брускетта)
-1. [Крок-месье](https://ru.wikipedia.org/wiki/Крок-месье)
-1. [Парадокс кошки с маслом](https://ru.wikipedia.org/wiki/Парадокс_кошки_с_маслом)
-1. [Капрезе](https://ru.wikipedia.org/wiki/Капрезе) - нечто среднее между [салатом](https://ru.wikipedia.org/wiki/Салат_(блюдо)) и бутербродом («бутерброд» с маслом и сыром, в котором вместо хлеба лежит помидор, а масло оливковое)
-1. [Смёрребрёд](https://ru.wikipedia.org/wiki/Смёрребрёд)
-1. [Гамбургер](https://ru.wikipedia.org/wiki/Гамбургер)
-1. [Сэндвич](https://ru.wikipedia.org/wiki/Сэндвич)
+- [Кростини](https://ru.wikipedia.org/wiki/Кростини)
+- [Брускетта](https://ru.wikipedia.org/wiki/Брускетта)
+- [Крок-месье](https://ru.wikipedia.org/wiki/Крок-месье)
+- [Парадокс кошки с маслом](https://ru.wikipedia.org/wiki/Парадокс_кошки_с_маслом)
+- [Капрезе](https://ru.wikipedia.org/wiki/Капрезе) - нечто среднее между [салатом](https://ru.wikipedia.org/wiki/Салат_(блюдо)) и бутербродом («бутерброд» с маслом и сыром, в котором вместо хлеба лежит помидор, а масло оливковое)
+- [Смёрребрёд](https://ru.wikipedia.org/wiki/Смёрребрёд)
+- [Гамбургер](https://ru.wikipedia.org/wiki/Гамбургер)
+- [Сэндвич](https://ru.wikipedia.org/wiki/Сэндвич)
 
 ## Примечания
- - [Бутерброд](https://ru.wikisource.org/wiki/МЭСБЕ/Бутерброд) // [Малый энциклопедический словарь Брокгауза и Ефрона](https://ru.wikipedia.org/wiki/Энциклопедический_словарь_Брокгауза_и_Ефрона) : в 4 т. - СПб., 1907-1909.
- - [Приготовлен самый большой бутерброд в мире](https://kuking.net/19_384.htm) // kuking.net
- - [В Нижнем съели самый большой в России бутерброд](https://www.gotovim.ru/library/records/bigbutter.shtml) // Готовим. РУ
- - [В Северодвинске сделали самый длинный бутерброд в России](http://www.dvinainform.ru/news/2010/07/27/85911.shtml)
- - [Надкусанный бутерброд с образом Девы Марии продан за 28 тысяч долларов.](https://lenta.ru/internet/2004/11/23/mary/) [Lenta.ru](https://ru.wikipedia.org/wiki/Lenta.ru) (23 ноября 2004). Дата обращения: 13 августа 2010.
- - Алан Александр Милн. [Баллада о королевском бутерброде](http://lib.ru/MILN/r_buterbrod.txt)
- - [Первая Биеннале Бутербродного Искусства](https://antiquesalon.ru/2169.html). ЭКСПО-ПАРК выставочные проекты. Дата обращения: 12 сентября 2011. [Архивировано](https://web.archive.org/web/20111006064227/http://www.art-moscow.ru/2169.html) 6 октября 2011 года.
- - [Статья «Закон бутерброда» в журнале «Знание - сила»](http://www.znanie-sila.ru/news/issue_125.html)
- - [Murphy’s Law - Part 3 › In Depth (ABC Science)](http://www.abc.net.au/science/k2/moments/s42137.htm)
+1. [Бутерброд](https://ru.wikisource.org/wiki/МЭСБЕ/Бутерброд) // [Малый энциклопедический словарь Брокгауза и Ефрона](https://ru.wikipedia.org/wiki/Энциклопедический_словарь_Брокгауза_и_Ефрона) : в 4 т. - СПб., 1907-1909.
+1. [Приготовлен самый большой бутерброд в мире](https://kuking.net/19_384.htm) // kuking.net
+1. [В Нижнем съели самый большой в России бутерброд](https://www.gotovim.ru/library/records/bigbutter.shtml) // Готовим. РУ
+1. [В Северодвинске сделали самый длинный бутерброд в России](http://www.dvinainform.ru/news/2010/07/27/85911.shtml)
+1. [Надкусанный бутерброд с образом Девы Марии продан за 28 тысяч долларов.](https://lenta.ru/internet/2004/11/23/mary/) [Lenta.ru](https://ru.wikipedia.org/wiki/Lenta.ru) (23 ноября 2004). Дата обращения: 13 августа 2010.
+1. Алан Александр Милн. [Баллада о королевском бутерброде](http://lib.ru/MILN/r_buterbrod.txt)
+1. [Первая Биеннале Бутербродного Искусства](https://antiquesalon.ru/2169.html). ЭКСПО-ПАРК выставочные проекты. Дата обращения: 12 сентября 2011. [Архивировано](https://web.archive.org/web/20111006064227/http://www.art-moscow.ru/2169.html) 6 октября 2011 года.
+1. [Статья «Закон бутерброда» в журнале «Знание - сила»](http://www.znanie-sila.ru/news/issue_125.html)
+1. [Murphy’s Law - Part 3 › In Depth (ABC Science)](http://www.abc.net.au/science/k2/moments/s42137.htm)
  
 ## Литература
 - Бутерброды // Товарный словарь / И. А. Пугачёв (главный редактор). - М.: Государственное издательство торговой литературы, 1956. - Т. I. - Стб. 691-695
